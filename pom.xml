@@ -9,8 +9,8 @@
     <version>0.1-SNAPSHOT</version>
     <modules>
         <module>database-version-control</module>
+        <module>spring-boot_mapstruct</module>
     </modules>
     <packaging>pom</packaging>
-
 
 </project>
