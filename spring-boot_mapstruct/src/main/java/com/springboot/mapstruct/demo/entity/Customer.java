@@ -38,7 +38,7 @@ public class Customer {
     /**
      * 创建时间
      */
-    private String createTIme;
+    private String createTime;
 
     /**
      * 创建人

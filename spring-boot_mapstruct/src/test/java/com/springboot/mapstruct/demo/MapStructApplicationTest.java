@@ -39,7 +39,7 @@ public class MapStructApplicationTest {
         customer.setCustomerName("张三");
         customer.setCustomerAddress("浙江省杭州市");
         customer.setCustomerPhone("13556894785");
-        customer.setCreateTIme(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()));
+        customer.setCreateTime(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()));
         customer.setCreator("李四");
         return customer;
     }
